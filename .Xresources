@@ -45,16 +45,6 @@ URxvt*cursorColor2:		#d33682
 URxvt*background:		[94]#002b36
 URxvt*foreground:		[100]#657b83
 
-!!XTerm*vt100.sessionMgt:		false
-!!XTerm*termName:			xterm-256color
-!!XTerm*vt100.geometry:		150x35
-!!XTerm*vt100.locale:		true
-!!XTerm*vt100.faceName:		xft:Terminus:pixelsize=14:style=bold
-!!XTerm*vt100.Font:		xft:Terminus:pixelsize=14:style=bold
-!!XTerm*vt100.boldFont:		xft:Terminus:pixelsize=14:style=bold
-!!XTerm*vt100.background: S_base03
-!!XTerm*vt100.foreground: S_base00
-
 !! drop in Solarized colorscheme for Xresources/Xdefaults
 
 !!SOLARIZED HEX     16/8 TERMCOL  XTERM/HEX   L*A*B      RGB         HSB
